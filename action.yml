@@ -1,5 +1,5 @@
 name: 'Snyk IaC scan and publish to Unify Platform'
-description: 'Runs Snyk Infrastructure as Code scan to detect security vulnerabilities and misconfigurations and publishes to the Unify platform.'
+description: 'Runs Snyk IaC scan to detect security vulnerabilities and misconfigurations and publishes to the Unify platform.'
 
 inputs:
   cloudbees-url:
